@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+.pagination {
+  margin-top: 40px;
+}
+
+.pagination button {
+  font-size: 32px;
+  margin-right: 10px;
+}
+
+.brewery-container p span:first-child {
+  width: 200px;
+  display: inline-block;
+}
